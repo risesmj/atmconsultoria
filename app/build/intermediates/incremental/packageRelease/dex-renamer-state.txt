@@ -1,0 +1,4 @@
+#Mon Jul 17 15:14:25 BRT 2017
+base.0=C\:\\Users\\MJ\\AndroidStudioProjects\\atmconsultoria\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\MJ\\AndroidStudioProjects\\atmconsultoria\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex
